@@ -5,18 +5,16 @@ This project is a backend system for a finance dashboard that manages users, fin
 
 The system supports different user roles with controlled access to financial data and operations.
 
-## API Documentation
-Swagger UI available at:
-https://bookingsystem-uy7w.onrender.com/api-docs/
+## Live API
+Base URL:
+https://assessment-zoorvyn.onrender.com
+
+Swagger Documentation:
+https://assessment-zoorvyn.onrender.com/api-docs
 
 ## Postman Collection
 Import the following file into Postman to test APIs:
 finance_management.postman_collection.json
-
-## Live Backend
-`
-https://assessment-zoorvyn.onrender.com 
-`
 ---
 
 ## Features
