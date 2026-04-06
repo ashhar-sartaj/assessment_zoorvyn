@@ -13,8 +13,8 @@ Swagger Documentation:
 https://assessment-zoorvyn.onrender.com/api-docs
 
 ## Postman Collection
-Import the following file into Postman to test APIs:
-finance_management.postman_collection.json
+You can test all APIs using the Postman collection below:
+- **Collection File:** `finance_management.postman_collection.json`
 ---
 
 ## Features
